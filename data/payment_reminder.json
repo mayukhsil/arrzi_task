@@ -1,0 +1,23 @@
+{
+  "id": "6212304f829ed4242260a6f2",
+  "payment_reminders": [
+    {
+      "id": 0,
+      "description": "uber",
+      "amount": 631.75,
+      "date": "2022-02-27"
+    },
+    {
+      "id": 1,
+      "description": "zomato",
+      "amount": 526.81,
+      "date": "2022-02-24"
+    },
+    {
+      "id": 2,
+      "description": "jio",
+      "amount": 796.11,
+      "date": "2022-03-01"
+    }
+  ]
+}
